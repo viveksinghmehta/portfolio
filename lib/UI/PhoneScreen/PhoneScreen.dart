@@ -34,7 +34,7 @@ class PhoneScreen extends StatelessWidget {
           ),
           child: Row(
             children: <Widget>[
-              
+
             ],
           ),
         )

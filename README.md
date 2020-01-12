@@ -1,6 +1,8 @@
 # vivek_portfolio
 
-A new Flutter application.
+A new Flutter Website for personal portfolio.
+
+## This project is under Developement
 
 ## Getting Started
 
