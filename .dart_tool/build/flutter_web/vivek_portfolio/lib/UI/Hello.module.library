@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","vivek_portfolio|lib/ResponsiveLogic/Responsive.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}

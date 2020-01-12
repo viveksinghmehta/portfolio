@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:vivek_portfolio/UI/Hello.dart';
-import 'package:vivek_portfolio/UI/CreateByWidget.dart';
 import 'package:vivek_portfolio/UI/LaptopScreens/LargeScreen.dart';
 import 'package:vivek_portfolio/UI/PhoneScreen/PhoneScreen.dart';
 

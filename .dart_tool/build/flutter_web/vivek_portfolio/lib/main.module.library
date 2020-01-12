@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","vivek_portfolio|lib/UI/Hello.dart","vivek_portfolio|lib/UI/CreateByWidget.dart","vivek_portfolio|lib/UI/LaptopScreens/LargeScreen.dart","vivek_portfolio|lib/UI/PhoneScreen/PhoneScreen.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}
